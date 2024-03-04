@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Pictures"
+title: "Zhaofeng Peng - Gallery"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
-permalink: /pictures/
+excerpt: "Zhaofeng Peng -- Gallery"
+permalink: /gallery/
 ---
 
-# Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
+# Gallery
+<!--Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
 
 ## Leiden
@@ -74,5 +74,5 @@ From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
 ## St Andrews
 From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at University of Geneva).
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">-->
 </figure>
