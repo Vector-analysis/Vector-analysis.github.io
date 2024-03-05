@@ -6,6 +6,9 @@ permalink: /gallery/
 ---
 
 # Gallery
+
+**Under Construction...**
+
 <!--Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
 
@@ -74,5 +77,5 @@ From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
 ## St Andrews
 From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at University of Geneva).
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">-->
-</figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
+</figure>-->
