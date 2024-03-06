@@ -1,4 +1,6 @@
 ---
+title: "PKU Video Download"
+layout: homepageDefault
 permalink: /pkuVideo/
 ---
 
