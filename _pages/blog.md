@@ -1,6 +1,6 @@
 ---
 title: "Zhaofeng Peng - Blog"
-layout: default
+layout: plain
 excerpt: "Zhaofeng Peng -- Blog"
 permalink: /blog/
 ---
@@ -10,7 +10,7 @@ permalink: /blog/
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 <!-- Animation: fish jump out of water -->
-<div id="jsi-flying-fish-container" class="container" style="background-color:#fff" style="max-width: 100%;"></div>
+<div id="jsi-flying-fish-container" class="container" style="background-color:#fff"></div>
 <script src="{{ site.url }}{{ site.baseurl }}/js/myfish.js"></script>
 <style>
   @media only screen and (max-width: 767px){
