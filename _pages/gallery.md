@@ -82,9 +82,6 @@ From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at U
 
 <div id="jsi-flying-fish-container" class="container" style="background-color:#fff"></div>
     <script>
-
-    <script type="text/javascript">
-
     var RENDERER = {
 	POINT_INTERVAL : 5,
 	FISH_COUNT : 3,
