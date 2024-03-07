@@ -80,7 +80,7 @@ From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at U
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
 </figure>-->
 
-<!-- 小鱼跃出水面的动画 -->
+<!-- Animation: fish jump out of water -->
 <div id="jsi-flying-fish-container" class="container" style="background-color:#fff"></div>
 <script src="{{ site.url }}{{ site.baseurl }}/js/myfish.js"></script>
 <style>
@@ -94,4 +94,4 @@ From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at U
 	bottom: 0;
   }
 </style>
-<!-- 小鱼 end -->
+<!-- Animation end -->
