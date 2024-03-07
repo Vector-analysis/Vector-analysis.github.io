@@ -112,4 +112,21 @@ permalink: /pkuVideo/
         }
     </script>
 </body>
+
+<!-- 小鱼跃出水面的动画 -->
+<div id="jsi-flying-fish-container" class="container" style="background-color:#fff"></div>
+<script src='https://blog-static.cnblogs.com/files/blogs/593570/myfish.js'></script>
+<style>
+  @media only screen and (max-width: 767px){
+  #sidebar_search_box input[type=text]{width:calc(100% - 24px);   }}
+  #jsi-flying-fish-container{
+    opacity: 0.4;
+    position:fixed;
+    width: 100%;
+    height: 19%;
+	bottom: 0;
+  }
+</style>
+<!-- 小鱼 end -->
+
 </html>
