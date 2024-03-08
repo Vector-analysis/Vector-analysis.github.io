@@ -57,6 +57,8 @@ permalink: /gallery/
 </div>
 
 
+Images sourced from the Internet.
+
 <!--Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
 
