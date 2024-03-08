@@ -31,21 +31,13 @@ Theoretical and Applied Mechanics
 
 <h2>Awards</h2>
 
-Dec. 2023: Award for Academic Excellence
+Dec. 2023: Award for Academic Excellence, Peking University
 
-Peking University
+Dec. 2023: Peking University Scholarship (Third Prize)
 
-Dec. 2023: Peking University Scholarship, Third Prize
+Aug. 2023:China Mechanics Competition in Honor of Zhou Peiyuan, Honorable Mention, The Chinese Society of Theoretical and Applied Mechanics, Chou Pei-yuan Foundation
 
-Peking University
-
-Aug. 2023:China Mechanics Competition in Honor of Zhou Peiyuan, Honorable Mention
-
-The Chinese Society of Theoretical and Applied Mechanics, Chou Pei-yuan Foundation
-
-Oct. 2020: Chinese Chemistry Olympiad in Provinces, First Prize
-
-Chinese Chemical Society
+Oct. 2020: Chinese Chemistry Olympiad in Provinces (First Prize), Chinese Chemical Society
 
 <!--We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
 
