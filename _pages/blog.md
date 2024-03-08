@@ -20,7 +20,7 @@ permalink: /blog/
     position:fixed;
     width: 100%;
     height: 19%;
-	bottom: 0;
+	  bottom: 0;
   }
 </style>
 <!-- Animation end -->
