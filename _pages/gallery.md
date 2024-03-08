@@ -8,6 +8,7 @@ permalink: /gallery/
 # Gallery
 
 **Under Construction...**
+
 Images sourced from the Internet.
 
 
