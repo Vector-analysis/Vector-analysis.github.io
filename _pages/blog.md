@@ -7,6 +7,8 @@ permalink: /blog/
 
 # Blog
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
 <!-- Animation: fish jump out of water -->
 <div id="jsi-flying-fish-container" class="container" style="background-color:#fff"></div>
 <script src="{{ site.url }}{{ site.baseurl }}/js/myfish.js"></script>
@@ -22,5 +24,3 @@ permalink: /blog/
   }
 </style>
 <!-- Animation end -->
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
