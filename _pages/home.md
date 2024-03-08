@@ -27,7 +27,7 @@ You can find more about me in my curriculum vitae.
 
 09/21-present: **Peking University** (PKU)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *Theoretical and Applied Mechanics*
+*Theoretical and Applied Mechanics*
 
 <h2>Awards</h2>
 
