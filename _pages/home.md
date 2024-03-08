@@ -13,7 +13,7 @@ More details to follow.-->
 
 
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/IMG_20230506_124705.jpg" style="width: 512px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/IMG_20230506_124705.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 </figure>
 
 
