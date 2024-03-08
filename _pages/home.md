@@ -35,7 +35,7 @@ Dec. 2023: Award for Academic Excellence, Peking University
 
 Dec. 2023: Peking University Scholarship (Third Prize)
 
-Aug. 2023:China Mechanics Competition in Honor of Zhou Peiyuan, Honorable Mention, The Chinese Society of Theoretical and Applied Mechanics, Chou Pei-yuan Foundation
+Aug. 2023:China Mechanics Competition in Honor of Zhou Peiyuan (Honorable Mention), The Chinese Society of Theoretical and Applied Mechanics, Chou Pei-yuan Foundation
 
 Oct. 2020: Chinese Chemistry Olympiad in Provinces (First Prize), Chinese Chemical Society
 
