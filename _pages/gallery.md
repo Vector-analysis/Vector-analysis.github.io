@@ -8,6 +8,7 @@ permalink: /gallery/
 # Gallery
 
 **Under Construction...**
+Images sourced from the Internet.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -56,8 +57,6 @@ permalink: /gallery/
   </a>
 </div>
 
-
-Images sourced from the Internet.
 
 <!--Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
