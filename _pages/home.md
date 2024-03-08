@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**Under Construction...**
+<!--**Under Construction...**-->
 
 <!--**News: Our group will move to the University of Munich (LMU)!** During the next two years, we will build up a "Lehrstuhl" (chair) at LMU and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
 More details to follow.-->
@@ -58,6 +58,12 @@ More details to follow.-->
   </a>
 </div>
 
+
+Hello! My name is Zhaofeng Peng, currently a third-year undergraduate at <a href="https://www.coe.pku.edu.cn/">College of Engineering</a>, <a href="https://www.pku.edu.cn/">Peking University</a>. My research interests embrace bio-related soft matter behavior and fluid mechanics in biomedical engineering.
+
+I'm now doing my undergraduate research program about the swelling behavior of polyelectrolyte gels, advised by Prof. Guang Chen.  
+
+You can find more about me in my curriculum vitae.
 
 <!--We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
 
