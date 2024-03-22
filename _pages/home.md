@@ -6,13 +6,13 @@ sitemap: false
 permalink: /
 ---
 
-<!--**Under Construction...**-->
+**Under Maintenance...**
 
 <!--**News: Our group will move to the University of Munich (LMU)!** During the next two years, we will build up a "Lehrstuhl" (chair) at LMU and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
 More details to follow.-->
 
 
-<figure>
+<!--<figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/IMG_20230506_124705.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 </figure>
 
@@ -36,7 +36,7 @@ Dec. 2023: **Peking University Scholarship** (Third Prize)
 
 Aug. 2023: **China Mechanics Competition in Honor of Zhou Peiyuan** (Honorable Mention), The Chinese Society of Theoretical and Applied Mechanics, Chou Pei-yuan Foundation
 
-Oct. 2020: **Chinese Chemistry Olympiad in Provinces** (First Prize), Chinese Chemical Society
+Oct. 2020: **Chinese Chemistry Olympiad in Provinces** (First Prize), Chinese Chemical Society-->
 
 <!--We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
 
