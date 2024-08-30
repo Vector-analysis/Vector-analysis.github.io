@@ -60,6 +60,3 @@ We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>-->
-
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=SJ1dZIEtTNnZgklUhJbmt0WsrlYtKRdNL_-Os8Wj23A&cl=ffffff&w=a"></script>
