@@ -17,11 +17,11 @@ More details to follow.-->
 </figure>
 
 
-Hello! My name is Zhaofeng Peng, currently a third-year undergraduate at <a href="https://www.coe.pku.edu.cn/">College of Engineering</a>, <a href="https://www.pku.edu.cn/">Peking University</a>. My research interests embrace bio-related soft matter behavior and fluid mechanics in biomedical engineering.
+Hello! My name is Zhaofeng Peng, currently a fourth-year undergraduate at <a href="https://www.coe.pku.edu.cn/">College of Engineering</a>, <a href="https://www.pku.edu.cn/">Peking University</a>. My research interests embrace bio-related soft matter behavior and fluid mechanics in biomedical engineering.
 
 I'm now doing my undergraduate research program about the swelling behavior of polyelectrolyte gels, advised by Prof. Guang Chen.  
 
-You can find more about me in my [curriculum vitae]({{ site.baseurl }}/downloads/Zhaofeng_CV.pdf).
+You can find more about me in my [curriculum vitae]({{ site.baseurl }}/downloads/CV.pdf).<!--({{ site.baseurl }}/downloads/Zhaofeng_CV.pdf)-->
 
 <h2>Education</h2>
 
