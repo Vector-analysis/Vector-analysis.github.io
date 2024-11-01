@@ -1,6 +1,5 @@
 ---
 title: "Eulerian Fluid Simulator"
-layout: plain
 permalink: /fluidSimulator/
 ---
 
