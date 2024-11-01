@@ -7,7 +7,7 @@ permalink: /gallery/
 
 # Gallery
 
-**Under Construction...**
+<!--**Under Construction...**-->
 
 Images are sourced from the Internet.
 
