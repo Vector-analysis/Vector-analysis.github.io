@@ -17,7 +17,7 @@ More details to follow.-->
 </figure>
 
 
-Hello! My name is Zhaofeng Peng, currently a fourth-year undergraduate at <a href="https://www.coe.pku.edu.cn/">College of Engineering</a>, <a href="https://www.pku.edu.cn/">Peking University</a>. My research interests embrace bio-related soft matter behavior and fluid mechanics in biomedical engineering.
+Hello! My name is Zhaofeng Peng, currently a fourth-year undergraduate at <a href="https://www.coe.pku.edu.cn/">College of Engineering</a>, <a href="https://www.pku.edu.cn/">Peking University</a>. My research interests embrace biology-related soft matter behavior and fluid mechanics in biomedical engineering.
 
 I'm now doing my undergraduate research program about the swelling behavior of red blood cells, advised by Prof. <a href="https://www.coe.pku.edu.cn/teaching/all_time/7283.html">Guang Chen</a>.
 
