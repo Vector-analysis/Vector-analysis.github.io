@@ -11,7 +11,6 @@ permalink: /gallery/
 
 Images are sourced from the Internet.
 
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -60,7 +59,6 @@ Images are sourced from the Internet.
 
 
 Here is a piece of music I created called ‘弈’ (which means chess-playing).
-
 
 <audio controls controlsList="nodownload">
   <source src="{{ site.url }}{{ site.baseurl }}/downloads/弈.mp3" type="audio/mpeg">
