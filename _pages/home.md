@@ -19,7 +19,7 @@ More details to follow.-->
 
 Hello! My name is Zhaofeng Peng, currently a fourth-year undergraduate at <a href="https://www.coe.pku.edu.cn/">College of Engineering</a>, <a href="https://www.pku.edu.cn/">Peking University</a>. My research interests embrace bio-related soft matter behavior and fluid mechanics in biomedical engineering.
 
-I'm now doing my undergraduate research program about the swelling behavior of red blood cells, advised by Prof. Guang Chen.
+I'm now doing my undergraduate research program about the swelling behavior of red blood cells, advised by Prof. <a herf="https://www.coe.pku.edu.cn/teaching/all_time/7283.html">Guang Chen</a>.
 
 In my free time, I love listening to music and occasionally creating my own. If you’re interested, please check out my [gallery]({{ site.baseurl }}/gallery) and give it a shot!
 
