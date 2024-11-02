@@ -9,6 +9,8 @@ permalink: /gallery/
 
 <!--**Under Construction...**-->
 
+<h2>Gallery of Fluids</h2>
+
 Images are sourced from the Internet.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -57,6 +59,8 @@ Images are sourced from the Internet.
   </a>
 </div>
 
+
+<h2>Music</h2>
 
 Here is a piece of music I created called ‘弈’ (which means 'Chess-playing').
 
