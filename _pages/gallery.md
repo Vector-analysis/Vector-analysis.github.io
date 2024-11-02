@@ -62,7 +62,7 @@ Images are sourced from the Internet.
 Here is a piece of music I created called ‘弈’ (which means chess-playing).
 
 
-<audio controls>
+<audio controls controlsList="nodownload">
   <source src="{{ site.url }}{{ site.baseurl }}/downloads/弈.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
