@@ -3,7 +3,9 @@ title: "Allan Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
+{::comment}
 permalink: /vacancies
+{:/comment}
 ---
 
 # Open positions
