@@ -3,7 +3,9 @@ title: "Allan Lab - Research"
 layout: textlay
 excerpt: "Allan Lab -- Research"
 sitemap: false
+{::comment}
 permalink: /research/
+{:/comment}
 ---
 
 # Research
