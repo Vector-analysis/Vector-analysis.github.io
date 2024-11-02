@@ -3,7 +3,9 @@ title: "Allan Lab - AOA"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
+{::comment}
 permalink: /aoa.html
+{:/comment}
 ---
 
 # Calendar
