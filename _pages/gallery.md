@@ -74,6 +74,7 @@ Here is another piece called ‘我们的征途’ (which means 'Our Grand Exped
 </audio>
 
 
+<!--Prevent multiple audio elements from playing simultaneously-->
 <script>
   const audios = document.querySelectorAll('audio');
 
