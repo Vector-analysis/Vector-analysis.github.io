@@ -9,6 +9,40 @@ permalink: /gallery/
 
 <!--**Under Construction...**-->
 
+<h2>Music</h2>
+
+Here is a piece of music I created called ‘弈’ (which means 'Chess-playing').
+
+<audio controls controlsList="nodownload">
+  <source src="{{ site.url }}{{ site.baseurl }}/downloads/弈.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+
+Here is another piece called ‘我们的征途’ (which means 'Our Grand Expedition').
+
+<audio controls controlsList="nodownload">
+  <source src="{{ site.url }}{{ site.baseurl }}/downloads/我们的征途.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+
+<!--Prevent multiple audio elements from playing simultaneously-->
+<script>
+  const audios = document.querySelectorAll('audio');
+
+  audios.forEach(audio => {
+    audio.addEventListener('play', () => {
+      audios.forEach(otherAudio => {
+        if (otherAudio !== audio) {
+          otherAudio.pause();
+        }
+      });
+    });
+  });
+</script>
+
+
 <h2>Gallery of Fluids</h2>
 
 Images are sourced from the Internet.
@@ -58,40 +92,6 @@ Images are sourced from the Internet.
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-
-<h2>Music</h2>
-
-Here is a piece of music I created called ‘弈’ (which means 'Chess-playing').
-
-<audio controls controlsList="nodownload">
-  <source src="{{ site.url }}{{ site.baseurl }}/downloads/弈.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
-
-Here is another piece called ‘我们的征途’ (which means 'Our Grand Expedition').
-
-<audio controls controlsList="nodownload">
-  <source src="{{ site.url }}{{ site.baseurl }}/downloads/我们的征途.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
-
-<!--Prevent multiple audio elements from playing simultaneously-->
-<script>
-  const audios = document.querySelectorAll('audio');
-
-  audios.forEach(audio => {
-    audio.addEventListener('play', () => {
-      audios.forEach(otherAudio => {
-        if (otherAudio !== audio) {
-          otherAudio.pause();
-        }
-      });
-    });
-  });
-</script>
 
 
 <!--Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
