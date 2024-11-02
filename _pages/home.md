@@ -21,7 +21,7 @@ Hello! My name is Zhaofeng Peng, currently a fourth-year undergraduate at <a hre
 
 I'm now doing my undergraduate research program about the swelling behavior of red blood cells, advised by Prof. Guang Chen.
 
-In my free time, I love listening to music and occasionally creating my own. If you’re interested, please check out my [gallery]({{ site.baseurl }}/gallery) and give it a shot! :D
+In my free time, I love listening to music and occasionally creating my own. If you’re interested, please check out my [gallery]({{ site.baseurl }}/gallery) and give it a shot!
 
 You can find more about me in my [curriculum vitae]({{ site.baseurl }}/downloads/CV.pdf).<!--({{ site.baseurl }}/downloads/Zhaofeng_CV.pdf)-->
 
