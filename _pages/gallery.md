@@ -15,10 +15,10 @@ permalink: /gallery/
 I am very interested in video game development, so I decided to try Unity (a game engine). Instead of starting with a complicated game project, I began with a Lissajous figure simulator. Here are some snapshots.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Lissajous/Fig1.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Lissajous/Fig2.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Lissajous/Fig3.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Lissajous/Fig4.png" style="width: 200px">
 </figure>
 
 
