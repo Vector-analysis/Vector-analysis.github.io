@@ -2,6 +2,7 @@
 title: "Zhaofeng Peng - Gallery"
 layout: piclay
 excerpt: "Zhaofeng Peng -- Gallery"
+sitemap: false
 permalink: /gallery/
 ---
 
