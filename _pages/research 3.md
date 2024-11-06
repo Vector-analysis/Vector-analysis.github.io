@@ -19,3 +19,7 @@ Here are some themes that I currently work on:
 **Drug sustained release with polyelectrolyte gels.** In recent years, sustained drug release with gels has come into our sight. The complicated electrostatic interaction inside polyelectrolyte gels makes the diffusion coefficient very different from neutral gels. The mechanism for diffusive sustained drug release is yet to be probed. I will try to explore the mechanism for this sustained drug release method. This is the topic for my undergraduate thesis.
 
 ### ... and more.
+
+# Publications & Manuscripts
+
+Duan, Ming-Yu, Jia-Dong Chen, Yi-Ming Liu, **Zhao-Feng Peng**, and Guang Chen. "Swelling of spherical polyelectrolyte gels." *Chinese Journal of Polymer Science* (2024): 1-7.
