@@ -59,7 +59,8 @@ Here is another piece called ‘我们的征途’ (which means 'Our Grand Exped
 
 <h2>Gallery of Fluids</h2>
 
-I really enjoy the beauty of some flow patterns. Here is a peek. Images are sourced from the Internet.
+<!--I really enjoy the beauty of some flow patterns. Here is a peek. Images are sourced from the Internet.-->
+I find the beauty of certain flow patterns truly captivating. Take a look at these examples sourced from the Internet.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
