@@ -44,7 +44,7 @@ Oct. 2020: **Chinese Chemistry Olympiad in Provinces** (First Prize), Chinese Ch
 
 <!--<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=3EsMwT0YYOLu4bfsi1nId621n80P5PFyTKsjInDP-vE"></script>-->
 
-<script type="text/javascript" src="https://cdn.livetrafficfeed.com/static/mapjs/live.v2.js?rat=60&typ=1&ro=0&tz=America%2FNew_York"></script><noscript id="LTF_mapjs_website"><a href="https://livetrafficfeed.com/live-maps-visitor">Live Maps Visitor</a></noscript>
+<script type="text/javascript" src="{{ site.url }}{{ site.baseurl }}/js/map.js" style="display: block; margin-left: auto; margin-right: auto; width: 100%;"></script><noscript id="LTF_mapjs_website"><a href="https://livetrafficfeed.com/live-maps-visitor">Live Maps Visitor</a></noscript>
 
 <!--We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
 
