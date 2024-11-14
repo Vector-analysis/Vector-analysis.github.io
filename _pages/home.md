@@ -40,6 +40,8 @@ Aug. 2023: **China Mechanics Competition in Honor of Zhou Peiyuan** (Honorable M
 
 Oct. 2020: **Chinese Chemistry Olympiad in Provinces** (First Prize), Chinese Chemical Society
 
+<script type="text/javascript" id="WolframAlphaScript69a517736902b7a8cf99f3e68720fb6f" src="//www.wolframalpha.com/widget/widget.jsp?id=69a517736902b7a8cf99f3e68720fb6f"></script>
+
 <!--We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
 
 
