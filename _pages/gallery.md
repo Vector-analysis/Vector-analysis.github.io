@@ -90,7 +90,7 @@ I find the beauty of certain flow patterns truly captivating. Take a look at the
         </div>
         <div class="item">
             <!--<img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />-->
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Saffman_Taylor.tif" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Saffman_Taylor.jpg" alt="Slide 4" />
         </div>
         <div class="item">
             <!--<img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />-->
