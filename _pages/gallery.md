@@ -88,13 +88,15 @@ I find the beauty of certain flow patterns truly captivating. Take a look at the
             <!--<img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />-->
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Water_Drop.jpg" alt="Slide 3" />
         </div>
-        <!--<div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
+        <div class="item">
+            <!--<img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />-->
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Saffman_Taylor.tif" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
+            <!--<img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />-->
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Duck_wave.jpg" alt="Slide 5" />
         </div>       
-         <div class="item">
+        <!--<div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
         </div>-->
     </div>
