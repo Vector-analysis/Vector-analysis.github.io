@@ -25,4 +25,4 @@ Here are some themes that I currently work on:
 
 ## Publications & Manuscripts
 
-Ming-Yu Duan, Jia-Dong Chen, Yi-Ming Liu, **Zhao-Feng Peng**, and Guang Chen. "Swelling of spherical polyelectrolyte gels." [*Chinese Journal of Polymer Science* (2024): 1-7](https://link.springer.com/article/10.1007/s10118-024-3152-2).
+Ming-Yu Duan, Jia-Dong Chen, Yi-Ming Liu, **Zhao-Feng Peng**, and Guang Chen. "Swelling of spherical polyelectrolyte gels." [*Chinese Journal of Polymer Science* (2024): 1386-1392](https://link.springer.com/article/10.1007/s10118-024-3152-2).
