@@ -8,7 +8,9 @@ permalink: /blogtest/
 
 # Blog Test
 
-$\frac{\partial L}{\partial x}-\frac{\mathrm{d}}{\mathrm{d}t}\left(\frac{\partial L}{\partial \dot{x}}\right)$
+$$\frac{\partial L}{\partial x}-\frac{\mathrm{d}}{\mathrm{d}t}\left(\frac{\partial L}{\partial \dot{x}}\right)$$
+
+$$E = mc^2$$
 
 ## Equations
 
