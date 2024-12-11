@@ -3,14 +3,29 @@ title: "Zhaofeng Peng - Blog"
 layout: textlay
 excerpt: "Zhaofeng Peng -- Blog"
 sitemap: false
-permalink: /centrifugal_governor/
+permalink: /blog/centrifugal_governor/
 ---
+
+<script type="text/javascript">
+    window.MathJax = {
+        tex: {
+            inlineMath: [['$', '$'], ['\\(', '\\)']],
+            processEscapes: true,
+            packages: {'[+]': ['base', 'ams', 'braket', 'newcommand', 'mhchem', 'physics', 'noerrors']}
+        },
+        options: {
+            skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            processHtmlClass: 'mathjax'
+        }
+    };
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.1/es5/tex-chtml.js" type="text/javascript"></script>
 
 # 离心调速器——从物理建模到微分方程平衡解的稳定性分析
 
- **Author:** [Quaternion]
+ **Author:** Quaternion
 
- **Link:** [https://zhuanlan.zhihu.com/p/673357410]
+ **Link:** For Chinese version, click [here](https://zhuanlan.zhihu.com/p/673357410)
 
 ## 前言  
 笔者这学期选修了常微分方程，最近（2023年12月19日）学习到了有关李雅普诺夫稳定性的相关内容。在浏览庞特里亚金的《常微分方程》时，我恰巧看到其中有一节内容与离心调速器的稳定性分析有关，思绪一下就被拉回到初二时躺在床上打着手电读《三体》的快乐时光，云天明的三个故事给当时的我带来了莫大的震撼。于是，我决定参照庞特里亚金书中的内容，写一写关于离心调速器的事。
