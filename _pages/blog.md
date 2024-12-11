@@ -7,6 +7,8 @@ permalink: /blog/
 
 # Blog
 
+1. [**Centrifugal Governor**]({{ site.url }}{{ site.baseurl }}/blog/centrifugal_governor)
+
 <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>-->
 
 <!-- Animation: fish jump out of water -->
