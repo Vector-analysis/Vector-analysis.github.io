@@ -7,6 +7,8 @@ permalink: /blog/
 
 # Blog
 
+*May the thoughts leap freely like playful fish.*
+
 1. [**Centrifugal Governor**]({{ site.url }}{{ site.baseurl }}/blog/centrifugal_governor)
 
 <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>-->
