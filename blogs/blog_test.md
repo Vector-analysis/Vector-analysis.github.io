@@ -18,6 +18,7 @@ Advanced Dynamics:
 
 **Euler Lagrange Equation** Therefore, it is good to reconstruct these equations.
 
+<!--
 # [随笔]电动力学的创世纪
 
  **Author:** [Austeritas]
@@ -152,3 +153,4 @@ Advanced Dynamics:
 
 ---
 
+-->
