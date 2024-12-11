@@ -1,6 +1,6 @@
 ---
 title: "Zhaofeng Peng - Blog"
-layout: plain
+layout: textlay
 excerpt: "Zhaofeng Peng -- Blog"
 permalink: /blog/
 ---
