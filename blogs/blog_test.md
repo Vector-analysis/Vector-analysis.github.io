@@ -6,6 +6,21 @@ sitemap: false
 permalink: /blogtest/
 ---
 
+<script type="text/javascript">
+    window.MathJax = {
+        tex: {
+            inlineMath: [['$', '$'], ['\\(', '\\)']],
+            processEscapes: true,
+            packages: {'[+]': ['base', 'ams', 'braket', 'newcommand', 'mhchem', 'physics', 'noerrors']}
+        },
+        options: {
+            skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            processHtmlClass: 'mathjax'
+        }
+    };
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.1/es5/tex-chtml.js" type="text/javascript"></script>
+
 # Blog Test
 
 ## Famous Equations
