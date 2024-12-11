@@ -21,3 +21,4 @@ $$\int_{\partial\Omega}\omega=\int_{\Omega}d\omega$$
 Advanced Dynamics:
 
 **Euler Lagrange Equation** Therefore, it is good to reconstruct these equations.
+
