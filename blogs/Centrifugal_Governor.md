@@ -21,19 +21,6 @@ permalink: /blog/centrifugal_governor/
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.1/es5/tex-chtml.js" type="text/javascript"></script>
 
-<!--# 离心调速器——从物理建模到微分方程平衡解的稳定性分析
-
- **Author:** Quaternion
-
- **Link:** For Chinese version, click [here](https://zhuanlan.zhihu.com/p/673357410)
-
-## 前言  
-笔者这学期选修了常微分方程，最近（2023年12月19日）学习到了有关李雅普诺夫稳定性的相关内容。在浏览庞特里亚金的《常微分方程》时，我恰巧看到其中有一节内容与离心调速器的稳定性分析有关，思绪一下就被拉回到初二时躺在床上打着手电读《三体》的快乐时光，云天明的三个故事给当时的我带来了莫大的震撼。于是，我决定参照庞特里亚金书中的内容，写一写关于离心调速器的事。
-
-受限于文章篇幅，这篇文章无法做到面面俱到。因此，我们需要读者已经有一定的前置知识，其中包括（但不限于）了解常系数线性微分方程以及方程组的解法等。
-
-我们先从物理建模开始。-->
-
 # Centrifugal Governor: From Physical Modeling to Stability Analysis of Differential Equation Equilibrium Solutions
 
 **Link:** For the Chinese version, click [here](https://zhuanlan.zhihu.com/p/673357410)
@@ -46,62 +33,6 @@ This semester, I chose to study Ordinary Differential Equations. Recently (Decem
 Due to the limited length of this article, it can't cover everything in detail. Therefore, readers are expected to have some prerequisite knowledge, including (but not limited to) understanding the solutions of linear differential equations with constant coefficients and systems of equations.
 
 Let's start with physical modeling.
-<!--
-## 模型  
-我们首先来看一看离心调速器（Centrifugal governor）的定义。维基百科（Wikipedia）上给出了如下的定义：
-
-
-> A **centrifugal governor** is a specific type of governor with a feedback system that controls the speed of an engine by regulating the flow of fuel or working fluid, so as to maintain a near-constant speed. It uses the principle of proportional control.  
-> 离心调速器是一种具有反馈系统的特定类型的调速器，其通过调控燃料或工作流体的流量来控制引擎的速度，以达到保持接近恒定速度的目的。它用到了比例控制的原理。
-
-其示意图为（图片来自维基百科）
-
-![]((20240501)离心调速器从物理建模到微分方程平衡解的稳定性分析_Quaternion/v2-e8f3b205e9d97711f5ee2ef4f0ef658c_1440w.jpg)  
-
-
-离心式“飞球”调速器的示意图；随着速度的增加，球体向外摆动，从而关闭阀门，直至速度降低到所需的恒定值
-
-  
-  
-总而言之，离心调速器是一种借助于离心运动的自动控制系统。
-
-1868年，麦克斯韦（James Clerk Maxwell）写了一篇著名的论文《论调速器》（*On Governors*），这篇论文被广泛认为是反馈控制理论中的经典。1876年，伊万·维什涅格拉德斯基（Ива́н Алексе́евич Вышнегра́дский）独立地分析了蒸汽机系统中的离心调速器，为工程提供了重要的指导。接下来，我们将把目光聚焦于维什涅格拉德斯基的研究成果上。
-
-按照庞特里亚金书中所述，我们将离心调速器简化为如下的模型：
-
-![]((20240501)离心调速器从物理建模到微分方程平衡解的稳定性分析_Quaternion/v2-407351d37d73251bca706ce8625ae320_1440w.jpg)  
-
-
-图片摘自该书的英文版
-
-  
-  
-图中 $S$ 是一根可以绕自己垂直轴心旋转的垂直枢轴，其上端通过铰链与两根同样长度的杆 $L_1$ 和 $L_2$ 相连，杆 $L_1$ 和 $L_2$ 的下端各带有质量为 $m$ 的相同重球。杆 $L_1$ 和 $L_2$ 又与辅助杆通过铰链相连，从而可以带动套在枢轴 $S$ 上的特制套管 $M$ 。设各杆与枢轴 $S$ 之间的夹角均为 $\varphi$ ，杆 $L_1$ 和 $L_2$ 的长度为单位长度。当枢轴 $S$ 以角速度 $\theta$ 旋转时，（在以枢轴为参照物的旋转系中）重球将受到离心力、重力和杆对它的作用力。如果重球在该参考系中保持静止，则上述三个力的合力为零。根据上述假设，作用在重球上的离心力大小为 $m\theta^2\sin\varphi$ ，重力大小为 $mg$ 。这两个力可以按垂直于杆轴线和沿杆轴线的方向分解，如下图所示：
-
-![]((20240501)离心调速器从物理建模到微分方程平衡解的稳定性分析_Quaternion/v2-a0cfe8255957748386daaf4ee106a6e9_1440w.jpg)  
-
-
-图片摘自该书的英文版
-
-  
-  
-当枢轴 $S$ 的转速保持恒定时，（在没有扰动的情况下）重球能够相对于枢轴 $S$ 保持静止，此时离心力与重力沿杆轴线方向的分量和杆对重球的作用力相平衡；其垂直于杆轴线方向的分量之和为零，即 $$m\theta^2\sin\varphi\cos\varphi-mg\sin\varphi=0\tag{1}\\$$  
-实际上我们知道，重球会随枢轴 $S$ 的转动角速度增加而向外摆动（可以类比拨浪鼓）。在这一过程中，我们还需要考虑铰链的摩擦力。书中提到：“它（摩擦力）以十分复杂的形式依赖于所发生的运动。为了在本质上简化这里存在的复杂性，我们假设摩擦力与质量 $m$ （即重球）的运动速度 $\dot{\varphi}$ 成正比，且有与这个速度相反的符号，即有量 $-b\dot{\varphi}$ ，其中 $b$ 为常数。”根据牛顿第二定律，我们可以得到一个关于 $\varphi$ 的微分方程 $$m\ddot{\varphi}=m\theta^2\sin\varphi\cos\varphi-mg\sin\varphi-b\dot{\varphi}\tag{2}$$  
-（注意：当 $\theta$ 和 $\varphi$ 变动时产生的附加的力与杆及铰链的反作用力平衡。）
-
-在离心调速器的示意图中，我们可以注意到一个以角速度 $\omega$ 旋转的飞轮。飞轮受到蒸汽的驱动而旋转，并且能输出有用功，例如提升重物。设飞轮的惯性矩为 $J$ ，根据角动量定理可得 $$J\dot{\omega}=P_1-P\tag{3}$$  
-其中 $P_1$ 是蒸汽的作用力矩， $P$ 是重物的重量作用在飞轮上的力矩。飞轮与调速器的枢轴 $S$ 通过传动齿相互联系，因此当飞轮转速过快时蒸汽的输入量就会减小，飞轮转速过慢时蒸汽的输入量就会增大。传动齿将飞轮转动的角速度 $\omega$ 和枢轴 $S$ 转动的角速度 $\theta$ 通过 $$\theta=n\omega\tag{4}$$  
-关联了起来，其中 $n$ 为一常量，称为转换数。
-
-最后，我们还需要将以上式子中的 $\varphi$ 和 $(3)$ 右侧的 $P_1-P$ 联系起来，以便得到刻画该模型的微分方程组。我们知道，离心调速器的作用是保持飞轮的转速基本恒定，由 $(1)$ 和 $(4)$ 能够看出 $\varphi$ 也应该保持基本恒定。设 $\varphi$ 的值在 $\varphi^{\ast}$ 附近变化（即 $\varphi^{\ast}$ 是 $\varphi$ 的“平均值”）。当飞轮转速加快时， $\varphi$ 值增大，套管 $M$ 向上移动，并通过杠杆带动气门（供给蒸汽的闸门）关闭，蒸汽的作用力矩 $P_1$ 减小；当飞轮转速减慢时， $\varphi$ 值减小，套管 $M$ 向下移动，并通过杠杆带动气门打开，蒸汽的作用力矩 $P_1$ 增大。因此，我们假定 $$P_1=F_1+k(\cos\varphi-\cos\varphi^{\ast})\tag{5}$$  
-其中 $F_1$ 是当 $\varphi=\varphi^{\ast}$ 时 $P_1$ 的值， $k>0$ 是比例常数。（可以看出， $(\cos\varphi-\cos\varphi^{\ast})$ 这一项其实正比于套管 $M$ 上下移动的距离。）
-
-结合关系式 $(2)-(5)$ ，描述该系统的微分方程组为 $$\left\{ \begin{array}{l} m\ddot{\varphi}=mn^2\omega^2\sin\varphi\cos\varphi-mg\sin\varphi-b\dot{\varphi}\\ J\dot{\omega}=k\cos\varphi-F \end{array}\right.\tag{6}$$  
-其中 $F=P-F_1+k\cos\varphi^{\ast}$ 是一与负载有关的量。至此，我们建立起了所需研究的物理模型及其对应的微分方程。
-
-以上内容（物理建模部分）基本来自庞特里亚金的《常微分方程》（第6版；林武忠，倪明康译；高等教育出版社；2006）第五章§27。
-
-接下来，我们简要介绍一下解的稳定性的定义和一些解稳定性的判定条件。对这些内容比较熟悉的读者可以略去这部分，直接阅读文章的最后一节：方程平衡解的稳定性分析。-->
 
 ## Model
 First, let's look at the definition of a centrifugal governor. Wikipedia provides the following definition:
