@@ -68,8 +68,8 @@ According to Pontryagin's book, we simplify the centrifugal governor as follows:
 
 <!--![Simplified Model](https://pic3.zhimg.com/v2-407351d37d73251bca706ce8625ae320_1440w.jpg)-->
 <div class="fig">
-    <img src="https://pic3.zhimg.com/v2-407351d37d73251bca706ce8625ae320_1440w.jpg" alt="Simplified Model">
-    <div class="fig-caption">The image is taken from the English version of the book.</div>
+  <img src="https://pic3.zhimg.com/v2-407351d37d73251bca706ce8625ae320_1440w.jpg" alt="Simplified Model">
+  <div class="fig-caption">The image is taken from the English version of the book.</div>
 </div>
 
 In the diagram, $S$ is a vertical pivot that can rotate about its vertical axis, with its upper end connected by hinges to two rods of the same length, $L_1$ and $L_2$. The lower ends of $L_1$ and $L_2$ each carry a heavy ball of mass $m$. $L_1$ and $L_2$ are also connected by hinges to auxiliary rods, which can drive a special sleeve $M$ that slides on the pivot $S$. The angle between each rod and the pivot $S$ is denoted as $\varphi$, and the lengths of $L_1$ and $L_2$ are unit lengths. When pivot $S$ rotates at an angular velocity $\theta$, the heavy balls experience centrifugal force, gravity, and the force from the rods. If the heavy balls remain stationary relative to the pivot in this rotating frame, the sum of these three forces is zero. According to this assumption, the centrifugal force acting on the heavy balls is $m\theta^2\sin\varphi$, and the gravity is $mg$. These two forces can be decomposed into components perpendicular to and along the rod axis, as shown in the following diagram:
