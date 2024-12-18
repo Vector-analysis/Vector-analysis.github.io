@@ -21,9 +21,17 @@ permalink: /blog/centrifugal_governor/
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.1/es5/tex-chtml.js" type="text/javascript"></script>
 
+<style>
+    img {
+        width: 100%;
+        max-width: 600px;
+        height: auto;
+    }
+</style>
+
 # Centrifugal Governor: From Physical Modeling to Stability Analysis of Differential Equation Equilibrium Solutions
 
-**Link:** For the Chinese version, click [here](https://zhuanlan.zhihu.com/p/673357410)
+**Link:** For the Chinese version, click [here](https://zhuanlan.zhihu.com/p/673357410).
 
 *Note: The English version was translated with the help of [Microsoft Copilot](https://www.microsoft.com).*
 
