@@ -1,6 +1,6 @@
 ---
 title: "Zhaofeng Peng - Blog"
-layout: piclay
+layout: textlay
 excerpt: "Zhaofeng Peng -- Blog"
 sitemap: false
 permalink: /blog/centrifugal_governor/
