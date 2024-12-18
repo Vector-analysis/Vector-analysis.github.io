@@ -44,11 +44,11 @@ Here's an illustration (image from Wikipedia):
 ![Centrifugal Governor](https://pica.zhimg.com/v2-e8f3b205e9d97711f5ee2ef4f0ef658c_1440w.jpg)
 
 <figure>
-    <img src="https://pica.zhimg.com/v2-e8f3b205e9d97711f5ee2ef4f0ef658c_1440w.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 68%;">
+    <img src="https://pica.zhimg.com/v2-e8f3b205e9d97711f5ee2ef4f0ef658c_1440w.jpg">
 </figure>
 
 <figure>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/IMG_20230506_124705.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 68%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/IMG_20230506_124705.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 </figure>
 
 <figure>
