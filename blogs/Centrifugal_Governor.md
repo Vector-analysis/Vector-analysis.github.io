@@ -21,7 +21,7 @@ permalink: /blog/centrifugal_governor/
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.1/es5/tex-chtml.js" type="text/javascript"></script>
 
-<script src="https://cdn.jsdelivr.net/npm/markdown-it/dist/markdown-it.min.js"></script>
+<!--<script src="https://cdn.jsdelivr.net/npm/markdown-it/dist/markdown-it.min.js"></script>
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     var md = window.markdownit();
@@ -32,7 +32,7 @@ permalink: /blog/centrifugal_governor/
       contentElement.innerHTML = htmlContent;
     }
   });
-</script>
+</script>-->
 
 # Centrifugal Governor: From Physical Modeling to Stability Analysis of Differential Equation Equilibrium Solutions
 
