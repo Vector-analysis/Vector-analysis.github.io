@@ -41,7 +41,7 @@ First, let's look at the definition of a centrifugal governor. Wikipedia provide
 
 Here's an illustration (image from Wikipedia):
 
-<!--![Centrifugal Governor](https://pica.zhimg.com/v2-e8f3b205e9d97711f5ee2ef4f0ef658c_1440w.jpg)-->
+![Centrifugal Governor](https://pica.zhimg.com/v2-e8f3b205e9d97711f5ee2ef4f0ef658c_1440w.jpg)
 
 <figure>
     <img src="https://pica.zhimg.com/v2-e8f3b205e9d97711f5ee2ef4f0ef658c_1440w.jpg" alt="Centrifugal Governor" style="display: block; margin-left: auto; margin-right: auto; width: 68%;">
