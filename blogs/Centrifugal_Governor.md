@@ -21,7 +21,7 @@ permalink: /blog/centrifugal_governor/
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.1/es5/tex-chtml.js" type="text/javascript"></script>
 
-# 离心调速器——从物理建模到微分方程平衡解的稳定性分析
+<!--# 离心调速器——从物理建模到微分方程平衡解的稳定性分析
 
  **Author:** Quaternion
 
@@ -32,8 +32,21 @@ permalink: /blog/centrifugal_governor/
 
 受限于文章篇幅，这篇文章无法做到面面俱到。因此，我们需要读者已经有一定的前置知识，其中包括（但不限于）了解常系数线性微分方程以及方程组的解法等。
 
-我们先从物理建模开始。
+我们先从物理建模开始。-->
 
+# Centrifugal Governor: From Physical Modeling to Stability Analysis of Differential Equation Equilibrium Solutions
+
+**Link:** For the Chinese version, click [here](https://zhuanlan.zhihu.com/p/673357410)
+
+*Note: The English version was translated with the help of [Microsoft Copilot](https://www.microsoft.com).*
+
+## Introduction
+This semester, I chose to study Ordinary Differential Equations. Recently (December 19, 2023), I learned about Lyapunov stability. While browsing through Pontryagin's *Ordinary Differential Equations*, I happened to see a section related to the stability analysis of centrifugal governors, which instantly took me back to those joyful moments in middle school when I would lie in bed reading *The Three-Body Problem* with a flashlight. Yun Tianming's three stories left a profound impact on me back then. Hence, I decided to refer to Pontryagin's book and write something about centrifugal governors.
+
+Due to the limited length of this article, it can't cover everything in detail. Therefore, readers are expected to have some prerequisite knowledge, including (but not limited to) understanding the solutions of linear differential equations with constant coefficients and systems of equations.
+
+Let's start with physical modeling.
+<!--
 ## 模型  
 我们首先来看一看离心调速器（Centrifugal governor）的定义。维基百科（Wikipedia）上给出了如下的定义：
 
@@ -88,7 +101,64 @@ permalink: /blog/centrifugal_governor/
 
 以上内容（物理建模部分）基本来自庞特里亚金的《常微分方程》（第6版；林武忠，倪明康译；高等教育出版社；2006）第五章§27。
 
-接下来，我们简要介绍一下解的稳定性的定义和一些解稳定性的判定条件。对这些内容比较熟悉的读者可以略去这部分，直接阅读文章的最后一节：方程平衡解的稳定性分析。
+接下来，我们简要介绍一下解的稳定性的定义和一些解稳定性的判定条件。对这些内容比较熟悉的读者可以略去这部分，直接阅读文章的最后一节：方程平衡解的稳定性分析。-->
+
+## Model
+First, let's look at the definition of a centrifugal governor. Wikipedia provides the following definition:
+
+> A **centrifugal governor** is a specific type of governor with a feedback system that controls the speed of an engine by regulating the flow of fuel or working fluid, so as to maintain a near-constant speed. It uses the principle of proportional control.  
+
+Here's an illustration (image from Wikipedia):
+
+![Centrifugal Governor](https://pica.zhimg.com/v2-e8f3b205e9d97711f5ee2ef4f0ef658c_1440w.jpg)
+
+A schematic diagram of a centrifugal "flyball" governor; as the speed increases, the balls swing outward, thereby closing the valve until the speed drops to the desired constant value.
+
+In summary, a centrifugal governor is an automatic control system that utilizes centrifugal motion.
+
+In 1868, James Clerk Maxwell wrote a famous paper titled *On Governors*, which is widely regarded as a classic in feedback control theory. In 1876, Ivan Alekseevich Vyshnegradsky independently analyzed the centrifugal governor in steam engine systems, providing important guidance for engineering. Next, we will focus on Vyshnegradsky's research results.
+
+According to Pontryagin's book, we simplify the centrifugal governor as follows:
+
+![Simplified Model](https://pic3.zhimg.com/v2-407351d37d73251bca706ce8625ae320_1440w.jpg)
+
+The image is taken from the English version of the book.
+
+In the diagram, $S$ is a vertical pivot that can rotate about its vertical axis, with its upper end connected by hinges to two rods of the same length, $L_1$ and $L_2$. The lower ends of $L_1$ and $L_2$ each carry a heavy ball of mass $m$. $L_1$ and $L_2$ are also connected by hinges to auxiliary rods, which can drive a special sleeve $M$ that slides on the pivot $S$. The angle between each rod and the pivot $S$ is denoted as $\varphi$, and the lengths of $L_1$ and $L_2$ are unit lengths. When pivot $S$ rotates at an angular velocity $\theta$, the heavy balls experience centrifugal force, gravity, and the force from the rods. If the heavy balls remain stationary relative to the pivot in this rotating frame, the sum of these three forces is zero. According to this assumption, the centrifugal force acting on the heavy balls is $m\theta^2\sin\varphi$, and the gravity is $mg$. These two forces can be decomposed into components perpendicular to and along the rod axis, as shown in the following diagram:
+
+![Force Decomposition](https://pic4.zhimg.com/v2-a0cfe8255957748386daaf4ee106a6e9_1440w.jpg)
+
+The image is taken from the English version of the book.
+
+When the rotation speed of pivot $S$ is constant, the heavy balls remain stationary relative to the pivot $S$ (without disturbances), and the components of centrifugal force and gravity along the rod axis balance the force from the rods; the sum of the components perpendicular to the rod axis is zero, i.e., 
+$$m\theta^2\sin\varphi\cos\varphi - mg\sin\varphi = 0 \tag{1}$$
+
+In fact, we know that the heavy balls swing outward as the angular velocity of the pivot $S$ increases (similar to a toy drum). In this process, we also need to consider the friction of the hinges. The book mentions: "It (friction) depends in a very complex form on the motion that occurs. To simplify the complexity essentially, we assume the friction is proportional to the velocity $\dot{\varphi}$ of mass $m$ (i.e., the heavy balls) and has the opposite sign, with a magnitude $-b\dot{\varphi}$, where $b$ is a constant." According to Newton's second law, we can obtain a differential equation for $\varphi$:
+$$m\ddot{\varphi} = m\theta^2\sin\varphi\cos\varphi - mg\sin\varphi - b\dot{\varphi} \tag{2}$$
+
+(Note: The additional forces generated by the changes in $\theta$ and $\varphi$ are balanced by the reaction forces from the rods and hinges.)
+
+In the schematic diagram of the centrifugal governor, we can see a flywheel rotating at an angular velocity $\omega$. The flywheel is driven by steam and can output useful work, such as lifting weights. Let $J$ be the moment of inertia of the flywheel. According to the angular momentum theorem:
+$$J\dot{\omega} = P_1 - P \tag{3}$$
+
+where $P_1$ is the torque exerted by the steam, and $P$ is the torque exerted by the weight on the flywheel. The flywheel is connected to the pivot $S$ of the governor through transmission gears, so the steam input decreases when the flywheel speed is too high, and the steam input increases when the flywheel speed is too low. The transmission gears relate the angular velocity $\omega$ of the flywheel to the angular velocity $\theta$ of the pivot $S$:
+$$\theta = n\omega \tag{4}$$
+
+where $n$ is a constant known as the gear ratio.
+
+Finally, we need to relate $\varphi$ in the above equations to the right-hand side of $(3)$, $P_1 - P$, to obtain the differential equations describing the model. We know that the function of the centrifugal governor is to maintain the flywheel speed essentially constant. From $(1)$ and $(4)$, we see that $\varphi$ should also remain essentially constant. Suppose the value of $\varphi$ fluctuates around $\varphi^{\ast}$ (i.e., $\varphi^{\ast}$ is the "mean value" of $\varphi$). As the flywheel speed increases, the value of $\varphi$ increases, moving the sleeve $M$ upward and closing the steam valve through a lever, thereby reducing the torque $P_1$ exerted by the steam; as the flywheel speed decreases, the value of $\varphi$ decreases, moving the sleeve $M$ downward and opening the steam valve through a lever, thereby increasing the torque $P_1$ exerted by the steam. Therefore, we assume:
+$$P_1 = F_1 + k(\cos\varphi - \cos\varphi^{\ast}) \tag{5}$$
+
+where $F_1$ is the value of $P_1$ when $\varphi = \varphi^{\ast}$, and $k > 0$ is a proportional constant. (It can be seen that $(\cos\varphi - \cos\varphi^{\ast})$ is actually proportional to the distance the sleeve $M$ moves up or down.)
+
+Combining the relations $(2)-(5)$, we obtain the system of differential equations describing the model:
+$$\left\{ \begin{array}{l} m\ddot{\varphi} = mn^2\omega^2\sin\varphi\cos\varphi - mg\sin\varphi - b\dot{\varphi} \\ J\dot{\omega} = k\cos\varphi - F \end{array} \right. \tag{6}$$
+
+where $F = P - F_1 + k\cos\varphi^{\ast}$ is a quantity related to the load. Thus, we have established the physical model to be studied and its corresponding differential equations.
+
+The above content (physical modeling part) is mainly from Pontryagin's *Ordinary Differential Equations* (6th edition; translated by Lin Wuzhong and Ni Mingkang; Higher Education Press; 2006), Chapter 5, §27.
+
+Next, we briefly introduce the definition of solution stability and some criteria for determining solution stability. Readers who are familiar with these contents can skip this part and directly read the last section of the article: Analysis of the Stability of Equilibrium Solutions of the Equation.
 
 ## 解的稳定性的定义  
 在进行下一步之前，我们首先介绍一下李雅普诺夫稳定性的概念。考虑一个自治的非线性动力系统： $$\dot{x}=f(x(t)),\qquad x(0)=x_0\tag{7}$$  
