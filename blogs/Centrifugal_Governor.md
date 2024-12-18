@@ -21,24 +21,6 @@ permalink: /blog/centrifugal_governor/
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.1/es5/tex-chtml.js" type="text/javascript"></script>
 
-<style>
-    .fig {
-        text-align: center;
-        width: 100%;
-        max-width: 680px;
-        margin: 0 auto;
-    }
-    .fig img {
-        width: 100%;
-        height: auto;
-    }
-    .fig-caption {
-        text-align: center;
-        font-size: 14px;
-        color: #555;
-    }
-</style>
-
 # Centrifugal Governor: From Physical Modeling to Stability Analysis of Differential Equation Equilibrium Solutions
 
 **Link:** For the Chinese version, click [here](https://zhuanlan.zhihu.com/p/673357410).
@@ -60,10 +42,10 @@ First, let's look at the definition of a centrifugal governor. Wikipedia provide
 Here's an illustration (image from Wikipedia):
 
 <!--![Centrifugal Governor](https://pica.zhimg.com/v2-e8f3b205e9d97711f5ee2ef4f0ef658c_1440w.jpg)-->
-<div class="fig">
-    <img src="https://pica.zhimg.com/v2-e8f3b205e9d97711f5ee2ef4f0ef658c_1440w.jpg" alt="Centrifugal Governor">
-    <div class="fig-caption">A schematic diagram of a centrifugal "flyball" governor; as the speed increases, the balls swing outward, thereby closing the valve until the speed drops to the desired constant value.</div>
-</div>
+<figure>
+    <img src="https://pica.zhimg.com/v2-e8f3b205e9d97711f5ee2ef4f0ef658c_1440w.jpg" alt="Centrifugal Governor" style="display: block; margin-left: auto; margin-right: auto; width: 68%;">
+    <figcaprion style="text-align: center; font-size: 12px; color: #555;">A schematic diagram of a centrifugal "flyball" governor; as the speed increases, the balls swing outward, thereby closing the valve until the speed drops to the desired constant value.</figcaption>
+</figure>
 
 In summary, a centrifugal governor is an automatic control system that utilizes centrifugal motion.
 
