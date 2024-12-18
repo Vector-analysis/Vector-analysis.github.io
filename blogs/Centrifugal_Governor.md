@@ -47,6 +47,13 @@ Here's an illustration (image from Wikipedia):
     <figcaprion style="text-align: center; font-size: 12px; color: #555;">A schematic diagram of a centrifugal "flyball" governor; as the speed increases, the balls swing outward, thereby closing the valve until the speed drops to the desired constant value.</figcaption>
 </figure>
 
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Lissajous/Fig1.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Lissajous/Fig2.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Lissajous/Fig3.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Lissajous/Fig4.png" style="width: 200px">
+</figure>
+
 In summary, a centrifugal governor is an automatic control system that utilizes centrifugal motion.
 
 In 1868, James Clerk Maxwell wrote a famous paper titled *On Governors*, which is widely regarded as a classic in feedback control theory. In 1876, Ivan Alekseevich Vyshnegradsky independently analyzed the centrifugal governor in steam engine systems, providing important guidance for engineering. Next, we will focus on Vyshnegradsky's research results.
