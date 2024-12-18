@@ -41,19 +41,10 @@ First, let's look at the definition of a centrifugal governor. Wikipedia provide
 
 Here's an illustration (image from Wikipedia):
 
-![Centrifugal Governor](https://pica.zhimg.com/v2-e8f3b205e9d97711f5ee2ef4f0ef658c_1440w.jpg)
-
-<figure>
-  <img src="https://pica.zhimg.com/v2-e8f3b205e9d97711f5ee2ef4f0ef658c_1440w.jpg">
-</figure>
-
-<figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/IMG_20230506_124705.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
-</figure>
-
 <figure>
   <img src="https://pica.zhimg.com/v2-e8f3b205e9d97711f5ee2ef4f0ef658c_1440w.jpg" alt="Centrifugal Governor" style="display: block; margin-left: auto; margin-right: auto; width: 68%;">
-  <figcaption style="text-align: center; font-size: 12px; color: #555;">A schematic diagram of a centrifugal "flyball" governor; as the speed increases, the balls swing outward, thereby closing the valve until the speed drops to the desired constant value.</figcaption>
+  <figcaption style="text-align: center; font-size: 12px; color: #555;">A schematic diagram of a centrifugal "flyball" governor; as the speed increases, the balls swing outward, thereby closing the valve until the speed drops to the desired constant value.
+  </figcaption>
 </figure>
 
 In summary, a centrifugal governor is an automatic control system that utilizes centrifugal motion.
