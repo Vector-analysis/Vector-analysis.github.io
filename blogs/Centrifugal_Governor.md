@@ -107,7 +107,7 @@ Next, we briefly introduce the definition of solution stability and some criteri
 
 为了更加直观地解释李雅普诺夫稳定性的概念，我们在此处给出三幅示意图：
 
-![]((20240501)离心调速器从物理建模到微分方程平衡解的稳定性分析_Quaternion/v2-7167bda2b8ea9e792f39d83d865b0cd2_1440w.jpg)  
+![](https://pic3.zhimg.com/v2-7167bda2b8ea9e792f39d83d865b0cd2_1440w.jpg)  
 
 
 李雅普诺夫意义下的稳定性、渐近稳定性和不稳定性的示意图
@@ -181,17 +181,17 @@ Next, we briefly introduce the definition of solution stability and some criteri
 1. $g=10,\,m=1,\,b=0.5,\,J=10,\,n=1,\,k=10,\,F=5$ ，则平衡位置为 $\displaystyle\varphi_0=\arccos\left(\frac{F}{k}\right)=\frac{\pi}{3},\,\psi_0=0,\,\omega_0=\frac{1}{n}\sqrt{\frac{gk}{F}}=2\sqrt5$ 。同时可以计算得 $\displaystyle\frac{bJ}{m}\cdot\nu=\sqrt5>1$ 。设定初始条件为 $\displaystyle\varphi_i=\frac{\pi}{2},\,\psi_i=3,\,\omega_i=6$ ，利用中阶龙格库塔方法（ode45）在时间区间 $[0,\,100]$ 上求解方程组 $(13)$ 。得到的结果如下图（a）所示。可以看到平衡解是渐近稳定的。
 2. $g=10,\,m=5,\,b=0.5,\,J=10,\,n=1,\,k=10,\,F=5$ ，则平衡位置仍为 $\displaystyle\varphi_0=\frac{\pi}{3},\,\psi_0=0,\,\omega_0=2\sqrt5$ 。此时， $\displaystyle\frac{bJ}{m}\cdot\nu=\frac{\sqrt5}{5}<1$ 。设定初始条件为 $\displaystyle\varphi_i=\frac{\pi}{3},\,\psi_i=0.05,\,\omega_i=2\sqrt{5}$ （即与平衡位置仅有一极小偏差，相当于一个小扰动），利用相同的方法求解方程组 $(13)$ 。得到的结果如下图（b）所示。可以看到，即使仅有一极小扰动，系统也无法演化到稳定平衡状态之上。
 
-![]((20240501)离心调速器从物理建模到微分方程平衡解的稳定性分析_Quaternion/v2-884519cd9924fd75cda529c9bb86aedd_1440w.jpg)  
+![](https://picx.zhimg.com/v2-884519cd9924fd75cda529c9bb86aedd_1440w.jpg)  
 
 
-（a）左图为φ，ψ和ω随时间的变化，右图是解对应的相空间中的轨迹；可以看到，平衡解是稳定的
+（a）左图为 $\varphi,\ \psi$ 和 $\omega$ 随时间的变化，右图是解对应的相空间中的轨迹；可以看到，平衡解是稳定的
 
   
   
-![]((20240501)离心调速器从物理建模到微分方程平衡解的稳定性分析_Quaternion/v2-8c708d3798313148464d2a477adde74e_1440w.jpg)  
+![](https://pica.zhimg.com/v2-8c708d3798313148464d2a477adde74e_1440w.jpg)  
 
 
-（b）左图为φ，ψ和ω随时间的变化，右图是解对应的相空间中的轨迹；可以看到，平衡解是不稳定的
+（b）左图为 $\varphi,\ \psi$ 和 $\omega$ 随时间的变化，右图是解对应的相空间中的轨迹；可以看到，平衡解是不稳定的
 
   
   
@@ -199,8 +199,6 @@ Next, we briefly introduce the definition of solution stability and some criteri
 笔者原本计划在寒假写完这篇文章的，但是还是拖延到了第二个学期。不过总体来说，这次确实比上一篇文章的拖延程度减轻了不少，毕竟上一篇文章拖延了将近9个月……
 
 笔者原本只是想简单按照庞特里亚金书中的内容写写离心调速器的工作原理的（即文章的物理建模部分），没想到后来越写越多，最后摊了这么大的一张饼……
-
-BTW，封面的这幅图是用必应的 Copilot 创作的。
 
 2024年5月1日
 
