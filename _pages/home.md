@@ -32,6 +32,10 @@ You can find more about me in my [curriculum vitae]({{ site.baseurl }}/downloads
 
 <h2>Awards</h2>
 
+Dec. 2024: **Merit Student**, Peking University
+
+Dec. 2024: **Huatai Science and Technology Scholarship**, Peking University
+
 Dec. 2023: **Award for Academic Excellence**, Peking University
 
 Dec. 2023: **Peking University Scholarship** (Third Prize)
