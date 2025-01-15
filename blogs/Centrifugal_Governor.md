@@ -72,7 +72,7 @@ According to Pontryagin's book, we simplify the centrifugal governor as follows:
   <div class="fig-caption">The image is taken from the English version of the book.</div>
 </div>-->
 <figure>
-  <img src="https://pic3.zhimg.com/v2-407351d37d73251bca706ce8625ae320_1440w.jpg" alt="Simplified Model" style="display: block; margin-left: auto; margin-right: auto; width: 86%;">
+  <img src="https://pic3.zhimg.com/v2-407351d37d73251bca706ce8625ae320_1440w.jpg" alt="Simplified Model" style="display: block; margin-left: auto; margin-right: auto; width: 68%;">
   <figcaption style="text-align: center; font-size: 14px; color: #555;">The image is taken from the English version of the book.
   </figcaption>
 </figure>
