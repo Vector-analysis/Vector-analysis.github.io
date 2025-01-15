@@ -90,7 +90,7 @@ When the rotation speed of pivot $S$ is constant, the heavy balls remain station
 
 $$m\theta^2\sin\varphi\cos\varphi - mg\sin\varphi = 0 \tag{1}$$
 
-In fact, we know that the heavy balls swing outward as the angular velocity of the pivot $S$ increases (similar to a toy drum). In this process, we also need to consider the friction of the hinges. The book mentions: "It (friction) depends in a very complex form on the motion that occurs. To simplify the complexity essentially, we assume the friction is proportional to the velocity $\dot{\varphi}$ of mass $m$ (i.e., the heavy balls) and has the opposite sign, with a magnitude $-b\dot{\varphi}$, where $b$ is a constant." According to Newton's second law, we can obtain a differential equation for $\varphi$:
+In fact, we know that the heavy balls swing outward as the angular velocity of the pivot $S$ increases (similar to a toy rattle-drum). In this process, we also need to consider the friction of the hinges. The book mentions: "It (friction) depends in a very complex form on the motion that occurs. To simplify the complexity essentially, we assume the friction is proportional to the velocity $\dot{\varphi}$ of mass $m$ (i.e., the heavy balls) and has the opposite sign, with a magnitude $-b\dot{\varphi}$, where $b$ is a constant." According to Newton's second law, we can obtain a differential equation for $\varphi$:
 
 $$m\ddot{\varphi} = m\theta^2\sin\varphi\cos\varphi - mg\sin\varphi - b\dot{\varphi} \tag{2}$$
 
