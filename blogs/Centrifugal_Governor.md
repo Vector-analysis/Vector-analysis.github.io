@@ -79,9 +79,12 @@ According to Pontryagin's book, we simplify the centrifugal governor as follows:
 
 In the diagram, $S$ is a vertical pivot that can rotate about its vertical axis, with its upper end connected by hinges to two rods of the same length, $L_1$ and $L_2$. The lower ends of $L_1$ and $L_2$ each carry a heavy ball of mass $m$. $L_1$ and $L_2$ are also connected by hinges to auxiliary rods, which can drive a special sleeve $M$ that slides on the pivot $S$. The angle between each rod and the pivot $S$ is denoted as $\varphi$, and the lengths of $L_1$ and $L_2$ are unit lengths. When pivot $S$ rotates at an angular velocity $\theta$, the heavy balls experience centrifugal force, gravity, and the force from the rods. If the heavy balls remain stationary relative to the pivot in this rotating frame, the sum of these three forces is zero. According to this assumption, the centrifugal force acting on the heavy balls is $m\theta^2\sin\varphi$, and the gravity is $mg$. These two forces can be decomposed into components perpendicular to and along the rod axis, as shown in the following diagram:
 
-![Force Decomposition](https://pic4.zhimg.com/v2-a0cfe8255957748386daaf4ee106a6e9_1440w.jpg)
-
-The image is taken from the English version of the book.
+<!--![Force Decomposition](https://pic4.zhimg.com/v2-a0cfe8255957748386daaf4ee106a6e9_1440w.jpg)-->
+<figure>
+  <img src="https://pic4.zhimg.com/v2-a0cfe8255957748386daaf4ee106a6e9_1440w.jpg" alt="Force Decomposition" style="display: block; margin-left: auto; margin-right: auto; width: 86%;">
+  <figcaption style="text-align: center; font-size: 14px; color: #555;">The image is taken from the English version of the book.
+  </figcaption>
+</figure>
 
 When the rotation speed of pivot $S$ is constant, the heavy balls remain stationary relative to the pivot $S$ (without disturbances), and the components of centrifugal force and gravity along the rod axis balance the force from the rods; the sum of the components perpendicular to the rod axis is zero, i.e., 
 $$m\theta^2\sin\varphi\cos\varphi - mg\sin\varphi = 0 \tag{1}$$
