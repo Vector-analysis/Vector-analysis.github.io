@@ -134,7 +134,12 @@ Next, we briefly introduce the definition of solution stability and some criteri
 
 为了更加直观地解释李雅普诺夫稳定性的概念，我们在此处给出三幅示意图：
 
-![](https://pic3.zhimg.com/v2-7167bda2b8ea9e792f39d83d865b0cd2_1440w.jpg)  
+<!--![](https://pic3.zhimg.com/v2-7167bda2b8ea9e792f39d83d865b0cd2_1440w.jpg)-->
+<figure>
+  <img src="https://pic3.zhimg.com/v2-7167bda2b8ea9e792f39d83d865b0cd2_1440w.jpg" alt="Lyapunov Stability" style="display: block; margin-left: auto; margin-right: auto; width: 86%;">
+  <figcaption style="text-align: center; font-size: 14px; color: #555;">李雅普诺夫意义下的稳定性、渐近稳定性和不稳定性的示意图.
+  </figcaption>
+</figure>
 
 
 李雅普诺夫意义下的稳定性、渐近稳定性和不稳定性的示意图
