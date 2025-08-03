@@ -27,10 +27,14 @@ You can find more about me in my [curriculum vitae]({{ site.baseurl }}/downloads
 
 <h2>Education</h2>
 
-09/21-present: **Peking University** (PKU)
+<!--09/21-present: **Peking University** (PKU)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *Theoretical and Applied Mechanics*-->
+09/21-07/25: **Peking University** (PKU)
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *Theoretical and Applied Mechanics*
 
 <h2>Awards</h2>
+
+Jun. 2025: **Excellent Graduate**, Peking University
 
 Dec. 2024: **Merit Student**, Peking University
 
