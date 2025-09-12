@@ -6,12 +6,15 @@ sitemap: false
 permalink: /
 ---
 
+<div class="col-sm-6 clearfix">
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/IMG_2171.JPG" style="display: block; margin-left: auto; margin-right: auto; width: 35%;">
 </figure>
+<div>
 
-
+<div class="col-sm-6 clearfix">
 Hello! My name is Zhaofeng Peng, currently a first-year PhD student in <a href="https://www.umass.edu/polymer-science/">Polymer Science and Engineering</a> at <a href="https://www.umass.edu/">UMass Amherst</a>. <!--My research interests embrace biology-related soft matter behavior and fluid mechanics in biomedical engineering.-->
+<div>
 
 <!--I'm now doing my undergraduate research program about the swelling behavior of red blood cells, advised by Prof. <a href="https://en.coe.pku.edu.cn/faculty/facultyaz/926688.htm">Guang Chen</a>. For a full list of my projects, please visit the [research]({{ site.baseurl }}/research) page.
 
