@@ -17,7 +17,7 @@ Hello! My name is Zhaofeng Peng, currently a first-year PhD student in <a href="
 
 In my free time, I love listening to music and occasionally creating my own. If you're interested, please check out my [gallery]({{ site.baseurl }}/gallery) and give it a listen!
 
-You can find more about me in my [curriculum vitae]({{ site.baseurl }}/downloads/CV.pdf).<!--({{ site.baseurl }}/downloads/Zhaofeng_CV.pdf)-->-->
+You can find more about me in my [curriculum vitae]({{ site.baseurl }}/downloads/CV.pdf).<!--({{ site.baseurl }}/downloads/Zhaofeng_CV.pdf)-->
 
 <h2>Education</h2>
 
