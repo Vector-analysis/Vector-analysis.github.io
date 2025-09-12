@@ -30,6 +30,7 @@ You can find more about me in my [curriculum vitae]({{ site.baseurl }}/downloads
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *Polymer Science and Engineering*
 
 09/21-07/25: **Peking University** (PKU)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Bachelor of Science with Honors
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *Theoretical and Applied Mechanics*
 
 <h2>Awards</h2>
