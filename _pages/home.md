@@ -16,6 +16,8 @@ permalink: /
 
 <div class="col-sm-6 clearfix">
 Hello! My name is Zhaofeng Peng, currently a first-year Ph.D. student in <a href="https://www.umass.edu/polymer-science/">Polymer Science and Engineering</a> at <a href="https://www.umass.edu/">UMass Amherst</a>. Before this, I earned my Bachelor's degree in Theoretical and Applied Mechanics from <a href="https://www.pku.edu.cn">Peking University</a>, Beijing.<!--My research interests embrace biology-related soft matter behavior and fluid mechanics in biomedical engineering.-->
+
+During my undergrad, I conduncted my research with Professor <a href="https://en.coe.pku.edu.cn/faculty/facultyaz/926688.htm">Guang Chen</a> on the osmotic pressure of polyelectrolyte solutions and the swelling behavior of red blood cells.
 </div>
 
 <!--I'm now doing my undergraduate research program about the swelling behavior of red blood cells, advised by Prof. <a href="https://en.coe.pku.edu.cn/faculty/facultyaz/926688.htm">Guang Chen</a>. For a full list of my projects, please visit the [research]({{ site.baseurl }}/research) page.
