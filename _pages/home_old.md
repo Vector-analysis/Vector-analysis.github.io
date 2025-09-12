@@ -3,7 +3,9 @@ title: "Zhaofeng Peng - Home"
 layout: homelay
 excerpt: "Zhaofeng Peng from Peking University."
 sitemap: false
+{::comment}
 permalink: /
+{::comment}
 ---
 
 <!--**Under Maintenance...**-->
