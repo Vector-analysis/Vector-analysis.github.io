@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/IMG_2171.JPG" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/IMG_2171.JPG" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 </figure>
 
 
