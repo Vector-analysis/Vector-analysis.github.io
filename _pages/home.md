@@ -10,7 +10,7 @@ permalink: /
 
 <div class="col-sm-6 clearfix">
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/IMG_2171.JPG" style="display: block; margin-left: auto; margin-right: auto; width: 35%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/IMG_2171.JPG" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
 </figure>
 </div>
 
@@ -23,6 +23,8 @@ Hello! My name is Zhaofeng Peng, currently a first-year PhD student in <a href="
 In my free time, I love listening to music and occasionally creating my own. If you're interested, please check out my [gallery]({{ site.baseurl }}/gallery) and give it a listen!
 
 You can find more about me in my [curriculum vitae]({{ site.baseurl }}/downloads/CV.pdf).<!--({{ site.baseurl }}/downloads/Zhaofeng_CV.pdf)-->
+
+<p>&nbsp;</p>
 
 <h2>Education</h2>
 
