@@ -24,8 +24,6 @@ In my free time, I love listening to music and occasionally creating my own. If 
 
 You can find more about me in my [curriculum vitae]({{ site.baseurl }}/downloads/CV.pdf).<!--({{ site.baseurl }}/downloads/Zhaofeng_CV.pdf)-->
 
-<p>&nbsp;</p>
-
 <h2>Education</h2>
 
 09/21-present: **University of Massachusetts Amherst** (UMass Amherst)
