@@ -19,7 +19,7 @@ Hello! My name is Zhaofeng Peng, currently a first-year Ph.D. student in <a href
 
 During my undergrad, I conduncted my research with Professor <a href="https://en.coe.pku.edu.cn/faculty/facultyaz/926688.htm">Guang Chen</a> on the osmotic pressure of polyelectrolyte solutions and the swelling behavior of red blood cells.
 
-In my free time, I love listening to music and occasionally creating my own.
+In my free time, I love listening to music and occasionally creating my own. If you're interested, please check out my [gallery]({{ site.baseurl }}/gallery) and give it a listen!
 </div>
 
 <p>&nbsp;</p>
