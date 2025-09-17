@@ -10,7 +10,7 @@ permalink: /
 
 <div class="col-sm-6 clearfix">
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/IMG_0003.JPG" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/IMG_0002.JPG" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
 </figure>
 </div>
 
