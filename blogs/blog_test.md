@@ -35,7 +35,7 @@ $$\int_{\partial\Omega}\omega=\int_{\Omega}d\omega$$
 
 Advanced Dynamics:
 
-**Euler-Lagrange equation** For analytical mechanics, this is a faily important equation.
+**Euler-Lagrange equation** For analytical mechanics, this is a fairly important equation.
 
 **Einstein's mass-energy relation** Needless to say, this is one of the most famous equations in the world.
 
