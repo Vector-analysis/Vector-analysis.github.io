@@ -1,0 +1,25 @@
+{
+    "title": "离心调速器——从物理建模到微分方程平衡解的稳定性分析",
+    "url": "https://zhuanlan.zhihu.com/p/673357410",
+    "author": {
+        "name": "Quaternion",
+        "url": "https://www.zhihu.com/people/min-nan-sui-xiang",
+        "badge": "鲸饮未吞海，剑气已横秋"
+    },
+    "zop": {
+        "authorName": "Quaternion",
+        "itemId": "673357410",
+        "title": "离心调速器——从物理建模到微分方程平衡解的稳定性分析",
+        "type": "article"
+    },
+    "zop-question": null,
+    "zop-extra-module": {
+        "card": {
+            "content": {
+                "type": "Post",
+                "token": "673357410",
+                "id": "673357410"
+            }
+        }
+    }
+}
