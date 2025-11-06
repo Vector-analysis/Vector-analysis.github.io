@@ -29,3 +29,5 @@ Here are some projects that I worked on as an undergrad:
 ## Publications & Manuscripts
 
 Mingyu Duan, Jiadong Chen, Yiming Liu, **Zhaofeng Peng**, and Guang Chen. "Swelling of spherical polyelectrolyte gels." [*Chinese Journal of Polymer Science* (2024): 1386-1392](https://link.springer.com/article/10.1007/s10118-024-3152-2).
+
+<p>&nbsp;</p>
