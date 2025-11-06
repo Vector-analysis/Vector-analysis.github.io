@@ -15,7 +15,7 @@ permalink: /
 </div>
 
 <div class="col-sm-6 clearfix">
-Under Construction...
+Under Construction... Please add LinkedIn somewhere...
 
 Hello! My name is Zhaofeng Peng, currently a first-year Ph.D. student in <a href="https://www.umass.edu/polymer-science/">Polymer Science and Engineering</a> at <a href="https://www.umass.edu/">UMass Amherst</a>, working with Professor <a herf="https://www.umass.edu/polymer-science/about/directory/laurel-kroo">Laurel Kroo</a>. Before this, I earned my Bachelor's degree in Theoretical and Applied Mechanics from <a href="https://www.pku.edu.cn">Peking University</a>, Beijing.<!--My research interests embrace biology-related soft matter behavior and fluid mechanics in biomedical engineering.-->
 
