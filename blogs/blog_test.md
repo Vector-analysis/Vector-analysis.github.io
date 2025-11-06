@@ -42,3 +42,5 @@ Advanced Dynamics:
 **Stokes' theorem** It unifies the fundamental theorem of calculus, Green's formula, Gauss's formula, and so on.
 
 **https://blog-static.cnblogs.com/files/blogs/593570/myfish.js**
+
+<p>&nbsp;</p>
