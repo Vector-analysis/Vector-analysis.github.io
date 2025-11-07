@@ -111,7 +111,7 @@ I find the beauty of certain flow patterns truly captivating. Take a look at the
   </a>
 </div>
 
-<p>&nbsp;</p>
+
 
 
 <!--Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
