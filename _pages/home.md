@@ -35,7 +35,7 @@ You can find more about me in my [curriculum vitae]({{ site.baseurl }}/downloads
 
 <h2>Education</h2>
 
-09/21-present: **University of Massachusetts Amherst** (UMass Amherst)
+09/25-present: **University of Massachusetts Amherst** (UMass Amherst)
 &nbsp; &nbsp; &nbsp; *Polymer Science and Engineering*
 
 09/21-07/25: **Peking University** (PKU)
