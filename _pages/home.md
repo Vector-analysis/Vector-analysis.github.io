@@ -21,10 +21,9 @@ Hello! My name is Zhaofeng Peng, currently a first-year Ph.D. student in <a href
 
 Currently, I am working on the fluid mechanics of soft matter systems, such as flow-directed self-assemblies and instabilities of polymeric fluids. During my undergrad, I conduncted my research with Professor <a href="https://en.coe.pku.edu.cn/faculty/facultyaz/926688.htm">Guang Chen</a> on the osmotic pressure of polyelectrolyte solutions and the swelling behavior of red blood cells.
 
-In my free time, I love listening to music and occasionally creating my own. If you're interested, please check out my [gallery]({{ site.baseurl }}/gallery) and give it a listen!
+In my free time, I love listening to music and occasionally creating my own (very amateur though). If you're interested, please check out my [gallery]({{ site.baseurl }}/gallery) and give it a listen!
 </div>
 
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 <!--I'm now doing my undergraduate research program about the swelling behavior of red blood cells, advised by Prof. <a href="https://en.coe.pku.edu.cn/faculty/facultyaz/926688.htm">Guang Chen</a>. For a full list of my projects, please visit the [research]({{ site.baseurl }}/research) page.
