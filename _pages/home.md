@@ -19,7 +19,7 @@ permalink: /
 
 Hello! My name is Zhaofeng Peng, currently a first-year Ph.D. student in <a href="https://www.umass.edu/polymer-science/">Polymer Science and Engineering</a> at <a href="https://www.umass.edu/">UMass Amherst</a>, working with Professor <a href="https://www.umass.edu/polymer-science/about/directory/laurel-kroo">Laurel Kroo</a>. Before this, I earned my Bachelor's degree in Theoretical and Applied Mechanics from <a href="https://www.pku.edu.cn">Peking University</a>, Beijing.<!--My research interests embrace biology-related soft matter behavior and fluid mechanics in biomedical engineering.-->
 
-Currently, I am working on ... During my undergrad, I conduncted my research with Professor <a href="https://en.coe.pku.edu.cn/faculty/facultyaz/926688.htm">Guang Chen</a> on the osmotic pressure of polyelectrolyte solutions and the swelling behavior of red blood cells.
+<!--Currently, I am working on ... -->During my undergrad, I conduncted my research with Professor <a href="https://en.coe.pku.edu.cn/faculty/facultyaz/926688.htm">Guang Chen</a> on the osmotic pressure of polyelectrolyte solutions and the swelling behavior of red blood cells.
 
 In my free time, I love listening to music and occasionally creating my own. If you're interested, please check out my [gallery]({{ site.baseurl }}/gallery) and give it a listen!
 </div>
