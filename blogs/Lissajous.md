@@ -3,7 +3,7 @@ title: "Zhaofeng Peng - Blog"
 layout: textlay
 excerpt: "Zhaofeng Peng -- Blog"
 sitemap: false
-permalink: /blog/lissajous/
+permalink: /blog/lissajous_CN/
 ---
 
 <script type="text/javascript">
