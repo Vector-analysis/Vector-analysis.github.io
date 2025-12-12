@@ -3,7 +3,7 @@ title: "Zhaofeng Peng - Blog"
 layout: textlay
 excerpt: "Zhaofeng Peng -- Blog"
 sitemap: false
-permalink: /blog/centrifugal_governor/
+permalink: /blog/centrifugal_governor_oldVer/
 ---
 
 <script type="text/javascript">
