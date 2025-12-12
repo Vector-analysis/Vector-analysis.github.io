@@ -13,7 +13,7 @@ permalink: /blog/
 
 2. **Lissajous Figure:** *In the mood for some chips? Here's one crafted with a Lissajous figure!* :-)
 
-3. **Simulation of Light Diffraction**
+3. [**Simulation of Light Diffraction**]({{ site.url }}{{ site.baseurl }}/downloads/Simulation of Light Diffraction - English Version.pdf) *This is not the final version... Yet to be proofread and revised...*
 
 <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>-->
 
