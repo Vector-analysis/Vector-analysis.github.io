@@ -8,15 +8,23 @@ permalink: /research/
 
 # Research
 
-Under Construction...
+As a Ph.D. student in polymer science and engineering, I am deeply interested in the fluid mechanics of polymer solutions. A variety of counterintuitive phenomena arise from the non-Newtonian nature of these systems, particularly under out-of-equilibrium conditions. Instabilities play a central role in many of these nonlinear behaviors, giving rise to changes in material properties, complex flow responses, and rich pattern formation.
 
-As a Ph.D. student in polymer science and engineering, I have a keen interest in the rheological behavior of various complex fluids. Experiments... Theory... Fluid mechanics... Mathematical tools...
+Through a combination of theoretical approaches and state-of-the-art experimental techniques, I investigate the nonlinear dynamics of complex fluids, including their rheological behavior under shear flow and instability-induced pattern formation. My goal is to uncover the underlying theoretical framework that connects mathematical models with experimental observations.
 
 ## Projects
 
 ### Current Projects
 
-Under Construction...
+Here are some of the key words that will outline my future research:
+
+**Pocket DoS and CaBER**
+
+**Flow programming** <!--Designing complex strain histories in streching flows.-->
+
+**Instabilities and pattern formation**
+
+**Waves on viscous liquid surfaces**
 
 ### Past Projects
 
