@@ -9,12 +9,6 @@ permalink: /
 <p>&nbsp;</p>
 
 <div class="col-sm-6 clearfix">
-<figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/IMG_0003.JPG" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
-</figure>
-</div>
-
-<div class="col-sm-6 clearfix">
 <!--Under Construction... Please add LinkedIn somewhere...-->
 
 Hello! My name is Zhaofeng Peng, currently a first-year Ph.D. student in <a href="https://www.umass.edu/polymer-science/">Polymer Science and Engineering</a> at <a href="https://www.umass.edu/">UMass Amherst</a>, working with Professor <a href="https://www.umass.edu/polymer-science/about/directory/laurel-kroo">Laurel Kroo</a>. Before this, I earned my Bachelor's degree in Theoretical and Applied Mechanics from <a href="https://www.pku.edu.cn">Peking University</a>, Beijing.<!--My research interests embrace biology-related soft matter behavior and fluid mechanics in biomedical engineering.-->
@@ -22,6 +16,12 @@ Hello! My name is Zhaofeng Peng, currently a first-year Ph.D. student in <a href
 Currently, I am working on the fluid mechanics of soft matter systems, such as flow-directed self-assemblies and instabilities of polymeric fluids. During my undergrad, I conduncted my research with Professor <a href="https://en.coe.pku.edu.cn/faculty/facultyaz/926688.htm">Guang Chen</a> on the osmotic pressure of polyelectrolyte solutions and the swelling behavior of red blood cells.
 
 In my free time, I love listening to music and occasionally creating my own (very amateur though). If you're interested, please check out my [gallery]({{ site.baseurl }}/gallery) and give it a listen!
+</div>
+
+<div class="col-sm-6 clearfix">
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/IMG_0003.JPG" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
+</figure>
 </div>
 
 <p>&nbsp;</p>
