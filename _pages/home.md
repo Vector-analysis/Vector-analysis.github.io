@@ -25,6 +25,8 @@ In my free time, I love listening to music and occasionally creating my own (ver
 </div>
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <!--I'm now doing my undergraduate research program about the swelling behavior of red blood cells, advised by Prof. <a href="https://en.coe.pku.edu.cn/faculty/facultyaz/926688.htm">Guang Chen</a>. For a full list of my projects, please visit the [research]({{ site.baseurl }}/research) page.
 
