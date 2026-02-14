@@ -27,9 +27,9 @@ I am very interested in video game development, so I decided to try Unity (a gam
 
 In my free time, I enjoy folding origami. As a beginner, I’m continually exploring new designs and discovering how much life can emerge from a single sheet of paper.
 
-<figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/Origami/OrigamiLongTailedTit.png" alt="Origami long-tailed tit" style="display: block; margin-left: auto; margin-right: auto; width: 300px">
-  <figcaption style="text-align: center;">
+<figure style="text-align: center;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Origami/OrigamiLongTailedTit.png" alt="Origami long-tailed tit" style="width:300px;">
+  <figcaption style="border:none; background:none; font:inherit; margin-top:8px;">
     Long-tailed tit designed by Kyohei Katsuta (勝田恭平).
   </figcaption>
 </figure>
