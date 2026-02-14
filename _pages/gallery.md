@@ -29,7 +29,8 @@ In my free time, I enjoy folding origami. As a beginner, I’m continually explo
 
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/Origami/OrigamiLongTailedTit.png" alt="Origami long-tailed tit" style="display: block; margin-left: auto; margin-right: auto; width: 300px">
-  <figcaption>Long-tailed tit designed by Kyohei Katsuta (勝田恭平).</figcaption>
+  <figcaption>Long-tailed tit designed by Kyohei Katsuta (勝田恭平).
+  </figcaption>
 </figure>
 
 
