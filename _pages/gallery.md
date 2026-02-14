@@ -23,6 +23,13 @@ I am very interested in video game development, so I decided to try Unity (a gam
 </figure>
 
 
+<h2>Discrete Dreams in Creases</h2>
+
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Origami/OrigamiLongTailedTit.png" style="width: 200px">
+</figure>
+
+
 <h2>Music</h2>
 
 Here is a piece of music I created called ‘弈’ (which means 'Chess-playing').
