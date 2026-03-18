@@ -9,7 +9,7 @@ permalink: /blog/
 
 *May the thoughts leap freely like playful fish.*
 
-1. [**Elastocapillary Thinning of a Viscoelastic Filament**]({{ site.url }}{{ site.baseurl }}/downloads/Notes on Elastocapillary Thinning of a Viscoelastic Filament.pdf) *A test on how powerful the AI tools can be. Also a good review of the classic theory of elastocapillary thinning -- basis of extensional rheometry.*
+1. [**Elastocapillary Thinning of a Viscoelastic Filament:**]({{ site.url }}{{ site.baseurl }}/downloads/Notes on Elastocapillary Thinning of a Viscoelastic Filament.pdf) *A test on how powerful the current AI tools could be (as of March 1, 2026). Also a good review of the classic theory of elastocapillary thinning -- basis of extensional rheometry.*
 
 <!--1. [**Centrifugal Governor**]({{ site.url }}{{ site.baseurl }}/blog/centrifugal_governor)
 
