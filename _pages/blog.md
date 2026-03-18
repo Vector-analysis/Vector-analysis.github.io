@@ -9,11 +9,13 @@ permalink: /blog/
 
 *May the thoughts leap freely like playful fish.*
 
-1. [**Centrifugal Governor**]({{ site.url }}{{ site.baseurl }}/blog/centrifugal_governor)
+1. [**Elastocapillary Thinning of a Viscoelastic Filament**]({{ site.url }}{{ site.baseurl }}/downloads/Notes on Elastocapillary Thinning of a Viscoelastic Filament.pdf) *A test on how powerful the AI tools can be. Also a good review of the classic theory of elastocapillary thinning -- basis of extensional rheometry.*
+
+<!--1. [**Centrifugal Governor**]({{ site.url }}{{ site.baseurl }}/blog/centrifugal_governor)
 
 2. [**Lissajous Figure:**]({{ site.url }}{{ site.baseurl }}/blog/lissajous) *In the mood for some chips? Here's one crafted with a Lissajous figure!* :-)
 
-3. [**Simulation of Light Diffraction**]({{ site.url }}{{ site.baseurl }}/downloads/Simulation of Light Diffraction - English Version.pdf) *This is not the final version... Yet to be proofread and revised...*
+3. [**Simulation of Light Diffraction**]({{ site.url }}{{ site.baseurl }}/downloads/Simulation of Light Diffraction - English Version.pdf) *This is not the final version... Yet to be proofread and revised...*-->
 
 <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>-->
 
