@@ -18,7 +18,7 @@ Through a combination of theoretical approaches and state-of-the-art experimenta
 
 Here are some of the key words that will outline my future research:
 
-**Pocket DoS and CaBER**
+**Pocket DoS and CaBER**: [Link to arXiv preprint](https://arxiv.org/abs/2608.16943).
 
 **Flow programming** <!--Designing complex strain histories in streching flows.-->
 
